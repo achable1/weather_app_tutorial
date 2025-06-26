@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "dart.flutterSdkPath": "C:\\tools\\flutter-sdk",
+    "i18n-ally.localesPaths": [
+        "assets/i18n"
+    ],
+    "i18n-ally.annotationDelimiter": "//",
+    "i18n-ally.displayLanguage": "es",
+    "i18n-ally.editor.preferEditor": true,
+    "i18n-ally.enabledFrameworks": [
+        "flutter-easy-localization"
+    ],
+    "i18n-ally.sourceLanguage": "es",
+    "i18n-ally.extract.keygenStyle": "camelCase"
+}
